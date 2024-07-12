@@ -1,1 +1,0 @@
-# skillSwipeCard-Api
